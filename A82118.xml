@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the armie concerning the Kings Majesty, and the treaty; and their resolution to execute justice upon all those Lords and Commons, aldermen, and Common-councell-men of the city of London, who invited Duke Hambleton and his army into this Kingdome. Also, their letter to the citizens of London, who presented the late and large petition to the Parliament, against a personall treaty with the King; and their protestation to live and die with them against all opposers whatsoever. Presented to His Excellency the Lord Generall Fairfax, in the name of the officers and soldiery of the army, and commanded to be printed and published. Subscribed, Paul Hobson. Whereunto is annexed, new propositions from the King, his declaration concerning the Presbyterian government, and a journall of the proceedings of the treaty.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82118</idno>
+            <idno type="STC">Wing D632</idno>
+            <idno type="STC">Thomason E466_10</idno>
+            <idno type="STC">ESTC R205223</idno>
+            <idno type="EEBO-CITATION">99864652</idno>
+            <idno type="PROQUEST">99864652</idno>
+            <idno type="VID">162298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162298)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E466[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the armie concerning the Kings Majesty, and the treaty; and their resolution to execute justice upon all those Lords and Commons, aldermen, and Common-councell-men of the city of London, who invited Duke Hambleton and his army into this Kingdome. Also, their letter to the citizens of London, who presented the late and large petition to the Parliament, against a personall treaty with the King; and their protestation to live and die with them against all opposers whatsoever. Presented to His Excellency the Lord Generall Fairfax, in the name of the officers and soldiery of the army, and commanded to be printed and published. Subscribed, Paul Hobson. Whereunto is annexed, new propositions from the King, his declaration concerning the Presbyterian government, and a journall of the proceedings of the treaty.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I) aut</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Die 9. Octob. 1648. Printed for C. VV. and are to be sole [sic] neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162298:1"/>
+            <p>THE DECLARATION OF THE ARMIE CONCERNING The <hi>Kings Majesty,</hi> and the <hi>Treaty;</hi> and their reſolution to execute juſtice upon all thoſe Lords and Commons, Aldermen, and Common-councell-men of the City of <hi>London,</hi> who invited Duke <hi>Hambleton</hi> and his <hi>Army</hi> into this <hi>Kingdome.</hi>
+            </p>
+            <p>ALSO, Their <hi>Letter</hi> to the Citizens of <hi>London,</hi> who preſented the late and large <hi>Petition</hi> to the <hi>Parliament,</hi> againſt a <hi>Perſonall Treaty</hi> with the <hi>King;</hi> And their <hi>Proteſtation</hi> to live and die with them againſt all oppoſers whatſoever.</p>
+            <p>
+               <hi>PReſented to His Excellency the Lord Generall</hi> Fairfax, <hi>in the Name of the Officers and Soldiery of the</hi> Army, <hi>and commanded to be printed and publiſhed<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Subſcribed, PAUL HOBSON.</p>
+            <p>
+               <hi>Whereunto is annexed,</hi> New <hi>Propoſitions</hi> from the <hi>King,</hi> His <hi>Declaration</hi> concer<g ref="char:EOLhyphen"/>ning the <hi>Presbyterian Government,</hi> and a Journall of the proceedings of the Treaty.</p>
+            <p>
+               <hi>Die</hi> 9. <hi>Octob.</hi> 1648.</p>
+            <p>Printed for <hi>C. VV.</hi> and are to be ſole neer the Royall Exchange in Cornhill.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162298:2"/>
+            <pb n="1" facs="tcp:162298:2"/>
+            <head>Exceeding joyfull NEWES FROM THE TREATY Being an exact Journall of the proceedings of the Kings Majeſty, and the Commiſſioners for PEACE.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>ON <hi>Munday</hi> laſt the King and the Commiſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>oners met again in the Treaty Chamber, ant debated the Bill for Church-Governmen, and after ſeveral Argument laid down by the Counceil on each ſide, touching Epiſcopacy, and Lay-Presbyterians, His Majeſty declared, That he was
+<pb n="2" facs="tcp:162298:3"/>reaſonable well ſatisfied touching that particular, in proving of Lay-Presbyterians to be <hi>Jure Divino,</hi> and therefore deſired them to proceed on to the reſt of the Propoſitions.</p>
+            <p>That which moſt induced his Majeſty to give his Royall aſſent therein, is ſaid to be, the excellent Argu<g ref="char:EOLhyphen"/>ments laid down by Mr. <hi>Seamer,</hi> to the <hi>King,</hi> proving that Lay-Presbyterians are <hi>Jure Devino:</hi> His excellen<g ref="char:EOLhyphen"/>cy therein, touching the clearing of this point, appea<g ref="char:EOLhyphen"/>red in its full ſplendor and purity and gave a glorious glimpſe throughout the whole Treaty Chamber. Af<g ref="char:EOLhyphen"/>ter which, his Majeſty roſe up out of the Chair of State, ſaying, <hi>That He did (in part) approve of the ſaid Arguments, and were well ſatisfied therewith, deſiring a Conference with the ſaid Mr.</hi> Seamer, which was aſſen<g ref="char:EOLhyphen"/>ted to, where his Majeſty declared himſelf very lear<g ref="char:EOLhyphen"/>nedly and ſaid, <hi>That nothing ſhould be wanting in him, for the ſetling of a firm and laſting peace.</hi>
+            </p>
+            <p>
+               <hi>Tueſday Octob.</hi> 3. His Majeſty delivered ſeverall Pa<g ref="char:EOLhyphen"/>pers to the Commiſſioners, touching Biſhops, 1. <hi>That His Majeſty cannot conſent to the aboliſhing of Epiſco<g ref="char:EOLhyphen"/>pacy, becauſe it is his judgment, that they are nearest to Agoſtolicall inſtitution.</hi> 2 <hi>That He is not ſatisfied how He can in Conſcience do it, in regard to his Coronation Oath.</hi> But after another Conference with the Miniſters and Lawyers, his Majeſty diſſented, and changed his reſolution.</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi> 
+                  <date>
+                     <hi>Octob.</hi> 6. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="2" facs="tcp:162298:3"/>
+            <head>The Declaration of the Army concerning the Treaty. preſented to the Lord Generall <hi>Fairfax.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>WE make bold being preſt in ſpirit, to repreſent to you, as the ground of our fears, ſo the mat<g ref="char:EOLhyphen"/>ter of our deſires. It hath pleaſed God after much plottings &amp; endeavours of the old and new malignants to crown the Army with great ſucceſs; and although that calls for Juſtice, little or none is done, and leſſe is like to be done, unleſſe your Excellency preſently ap<g ref="char:EOLhyphen"/>pears to do ſomthing, and the Army with you, to be a leading cauſe to us; we wait for it. Inſtead of Juſtice, behold a Treaty with them for <hi>Peace,</hi> that God ſpeaks no peace to: and inſtead of owning juſt <hi>Petitions,</hi> they are laid aſide, and not countenanced; ſome imployed in the <hi>Treaty</hi> not long ſince voted the Army Rebels; what that prognoſticates in the future, when they have po<g ref="char:EOLhyphen"/>wer, we leave to your Excellency to judge. So hoping you will ſo far honour us, as to ſtand by the <hi>Kingdom</hi> and the <hi>Army</hi> in their juſt rights and priviledge, We ſubſcribe in behalf of the Officers and Soldiery,</p>
+            <p>
+               <hi>Lieu. Col. Paul Hobſon, Capt. Clark,</hi>
+            </p>
+            <p>The Army hath further declared to his Excellency, <hi>That it is not the ſence of the Army, to have a perſonall Treaty with the King, but deſire Iuſtice to be execued up<g ref="char:EOLhyphen"/>on thoſe Lords and Commons, Aldermen, and Common-councel men of London, who invited the Scots into this Nation; as alſo againſt thoſe Common councel men of Lon<g ref="char:EOLhyphen"/>don, that durſt joyn with the Prince (while in arms againſt the Parliament and people) in his Deſires, concluding that all theſe wickedneſſes must be ſalved up with a perſonall treaty, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162298:4"/>
+            <head>Ioyfull Newes from the Kings Navy at Sea.</head>
+            <p>VVE have and ſhall endeavour to give ſatisfaction to the whole Kingdom of <hi>England,</hi> in the grounds of our preſent proceedings. But we thinke fit notwithſtanding, to make a particular addreſſe to you, being extreamly deſirous that the City of <hi>London</hi> ſhould be fully ſatisfied that our intentions are juſt and honorable, for the peace and happineſſe of all his Majeſties ſubjects.</p>
+            <p>And we cannot deſpair of gaining a belief and con<g ref="char:EOLhyphen"/>fidence with you, when it ſhall appear that Our acti<g ref="char:EOLhyphen"/>ons and proceedings are conformable to our profeſ<g ref="char:EOLhyphen"/>ſions, and in order to thoſe publique ends, and that hap<g ref="char:EOLhyphen"/>py ſettlement of the Kingdom, which we have propo<g ref="char:EOLhyphen"/>ſed as the chief end of all our endeavours.</p>
+            <p>And we further think fit to aſſure you, that we are ſo far from intending violence to the perſons or goods of any of Our Fathers Subjects of <hi>England,</hi> or any other particular advantage therein, that our only aym and end is to procure a ſubſiſtance for the Navy at Sea under Our Command, that thereby we may be inabled to protect the Ships, Veſſels and Goods, and to ſecure the Trade, not only of the City of <hi>London,</hi> but of all other his Majeſties good ſubjects.</p>
+            <p>And being for the preſent utterly unable to provide for ſo great a charge, as having been for ſome yeeres
+<pb n="5" facs="tcp:162298:4"/>deprived as well of our own eſtate, as of the ſupplies We might have drawn from the bounty of the <hi>King</hi> Our Royall Father.</p>
+            <p>We think fit to have recourſe to you, deſiring you to ſupply Us with ſuch neceſſaries and ſubſiſtance, as may tend to the ſupportment of the Navy now under Our Command.</p>
+            <p>And being thus furniſhed by you in this neceſſity, We ſhall immediatly diſcharge all ſhips of Marchan<g ref="char:EOLhyphen"/>dize which have been ſtayed by Our Fleet, and ſhall carefully hereafter uſe Our utmoſt endeavours for protecting the Ships and Goods, and ſecure the Trade and Commerce of the ſaid City, and other his Maje<g ref="char:EOLhyphen"/>ſties Cities, Cinque-ports, and Town, which we con<g ref="char:EOLhyphen"/>ceive to be the only, proper, and naturall imployments of his Majeſties Navy; and for which, as for other reaſons, it hath alwayes been maintained out of the Cuſtoms paid to his Majeſty, out of which, as ſoon as it ſhall be in Our power, We ſhall take care to have the ſaid ſum or ſums repaid you. And ſo deſiring a preſent ſupply, the preſſing neceſſities of the Fleet ad<g ref="char:EOLhyphen"/>mitting no delay, We bid you heartily farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under our Hand and Seal, aboard the Fleet Royall, in</hi> 
+                  <date>
+                     <hi>the</hi> 24.</date>
+                  <hi>Yeer of the Reign of Our Royall Father the King.</hi>
+               </dateline>
+               <signed>Subſcribed CHARLES P.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <p>By Letters from the Hague in <hi>Holland</hi> it is adverti<g ref="char:EOLhyphen"/>zed, That the Prince of <hi>Wales,</hi> and his councel, hath had ſome conſultation touching the Earl of <hi>VVarnicks</hi> an<g ref="char:EOLhyphen"/>choring neer the Fleet Royall, &amp; hearing of his Lord<g ref="char:EOLhyphen"/>ſhips great proffers to the Fleet, <hi>viz. Indempnity</hi> and
+<pb facs="tcp:162298:5"/>
+               <hi>Money,</hi> His Highneſſe poſted towards <hi>Goree,</hi> came a<g ref="char:EOLhyphen"/>board the Fleet, and expreſſed himſelf in ſeverall de<g ref="char:EOLhyphen"/>claratory ſpeeches to the Sea-men.</p>
+            <p>
+               <hi>GEntlemen, and Fellow-Commoners.</hi> As we all lan<g ref="char:EOLhyphen"/>guiſh apd groan under the inſuportable weight of the publike oppreſſion of the Land, ſo it is our du<g ref="char:EOLhyphen"/>ty to ſtruggle and ſtrive joyntly together for the re<g ref="char:EOLhyphen"/>lief of each other, for to our Neighbour we are bound as to our ſelves; and we are all the ſons of one Nation and brethren by Nature, whoſe ſeverall Weale and woe is included and wrapt up in the fold of one Com<g ref="char:EOLhyphen"/>mon-wealth; that we muſt even ſtand or fall together. We though we have our ſwords in our hands, cannot be without you, nor you without us, in this day of publike calamity, as we with you ſo you with us are ſufficiently ſenſible, which to all conſcientious and ju<g ref="char:EOLhyphen"/>dicious men may be ſufficient to tye us firmly toge<g ref="char:EOLhyphen"/>ther in one Common bond of unity againſt all our op<g ref="char:EOLhyphen"/>preſſours, and oppoſers offreedome whatſoever, but in this we give you the preheminence, for though we are with you in hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and affection, for the principles of Common Right and freedom to the Laud, yet we muſt give you the right hand of fellowſhip in appea<g ref="char:EOLhyphen"/>ring and going before us therein. For to the great re<g ref="char:EOLhyphen"/>freſhments of our ſpirits we find, that God hath pro<g ref="char:EOLhyphen"/>vided yet thouſands for us, that have not bowed their knee to Baal, and are yet firm and untaynted with the poyſonus principles of oppreſſion and Tyrany, as by your two late Petions appeareth. And as you have bin an encouragement unto us, to raiſe up your ſpirits, &amp; put us upon action, ſo let us be an encouragement un<g ref="char:EOLhyphen"/>to you to purſue you with the uttermoſt vigour and might in thoſe happy begining of yours, &amp; we ſhal by Gods aſſiſtance ſecond you with our moſt power againſt all oppoſers whatſoever.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
